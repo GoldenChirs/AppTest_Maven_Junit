@@ -1,5 +1,5 @@
 #surefire
-#Mon Feb 02 00:50:01 HKT 2015
+#Wed Feb 04 09:48:14 HKT 2015
 paralleltimeoutforced=0.0
 tc.0=test.java.com.example.apptest.MainTest
 useUnlimitedThreads=false
